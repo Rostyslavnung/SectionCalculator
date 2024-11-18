@@ -1,0 +1,11 @@
+﻿  Functions.cpp
+  Main.cpp
+  Point.cpp
+  Pyramid.cpp
+  Sphere.cpp
+  ThreeDimensionalShape.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 512 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SectionCalculator.vcxproj -> F:\Desktop\ifntung study\2 курс\Курсова ООП\SectionCalculator\x64\Release\SectionCalculator.exe

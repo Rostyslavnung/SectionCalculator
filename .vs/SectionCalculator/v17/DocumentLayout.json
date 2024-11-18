@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Desktop\\ifntung study\\2 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u041E\u041E\u041F\\SectionCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8046D051-5838-4FF1-98D7-6A0F8B864BEA}|SectionCalculator\\SectionCalculator.vcxproj|F:\\Desktop\\ifntung study\\2 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u041E\u041E\u041F\\SectionCalculator\\SectionCalculator\\Sphere.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8046D051-5838-4FF1-98D7-6A0F8B864BEA}|SectionCalculator\\SectionCalculator.vcxproj|solutionrelative:SectionCalculator\\Sphere.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8046D051-5838-4FF1-98D7-6A0F8B864BEA}|SectionCalculator\\SectionCalculator.vcxproj|F:\\Desktop\\ifntung study\\2 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u041E\u041E\u041F\\SectionCalculator\\SectionCalculator\\Pyramid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8046D051-5838-4FF1-98D7-6A0F8B864BEA}|SectionCalculator\\SectionCalculator.vcxproj|solutionrelative:SectionCalculator\\Pyramid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04802CD1-E3D9-4834-A890-6725BDBDB0B5}|SCTest\\SCTest.vcxproj|F:\\Desktop\\ifntung study\\2 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u041E\u041E\u041F\\SectionCalculator\\SCTest\\SCTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{04802CD1-E3D9-4834-A890-6725BDBDB0B5}|SCTest\\SCTest.vcxproj|solutionrelative:SCTest\\SCTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8046D051-5838-4FF1-98D7-6A0F8B864BEA}|SectionCalculator\\SectionCalculator.vcxproj|F:\\Desktop\\ifntung study\\2 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u041E\u041E\u041F\\SectionCalculator\\SectionCalculator\\Exceptions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8046D051-5838-4FF1-98D7-6A0F8B864BEA}|SectionCalculator\\SectionCalculator.vcxproj|solutionrelative:SectionCalculator\\Exceptions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8046D051-5838-4FF1-98D7-6A0F8B864BEA}|SectionCalculator\\SectionCalculator.vcxproj|F:\\Desktop\\ifntung study\\2 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u041E\u041E\u041F\\SectionCalculator\\SectionCalculator\\Functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8046D051-5838-4FF1-98D7-6A0F8B864BEA}|SectionCalculator\\SectionCalculator.vcxproj|solutionrelative:SectionCalculator\\Functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8046D051-5838-4FF1-98D7-6A0F8B864BEA}|SectionCalculator\\SectionCalculator.vcxproj|F:\\Desktop\\ifntung study\\2 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u041E\u041E\u041F\\SectionCalculator\\SectionCalculator\\Sphere.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8046D051-5838-4FF1-98D7-6A0F8B864BEA}|SectionCalculator\\SectionCalculator.vcxproj|solutionrelative:SectionCalculator\\Sphere.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8046D051-5838-4FF1-98D7-6A0F8B864BEA}|SectionCalculator\\SectionCalculator.vcxproj|F:\\Desktop\\ifntung study\\2 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u041E\u041E\u041F\\SectionCalculator\\SectionCalculator\\Point.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8046D051-5838-4FF1-98D7-6A0F8B864BEA}|SectionCalculator\\SectionCalculator.vcxproj|solutionrelative:SectionCalculator\\Point.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8046D051-5838-4FF1-98D7-6A0F8B864BEA}|SectionCalculator\\SectionCalculator.vcxproj|F:\\Desktop\\ifntung study\\2 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u041E\u041E\u041F\\SectionCalculator\\SectionCalculator\\Point.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8046D051-5838-4FF1-98D7-6A0F8B864BEA}|SectionCalculator\\SectionCalculator.vcxproj|solutionrelative:SectionCalculator\\Point.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8046D051-5838-4FF1-98D7-6A0F8B864BEA}|SectionCalculator\\SectionCalculator.vcxproj|F:\\Desktop\\ifntung study\\2 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u041E\u041E\u041F\\SectionCalculator\\SectionCalculator\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8046D051-5838-4FF1-98D7-6A0F8B864BEA}|SectionCalculator\\SectionCalculator.vcxproj|solutionrelative:SectionCalculator\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8046D051-5838-4FF1-98D7-6A0F8B864BEA}|SectionCalculator\\SectionCalculator.vcxproj|F:\\Desktop\\ifntung study\\2 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u041E\u041E\u041F\\SectionCalculator\\SectionCalculator\\Functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8046D051-5838-4FF1-98D7-6A0F8B864BEA}|SectionCalculator\\SectionCalculator.vcxproj|solutionrelative:SectionCalculator\\Functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8046D051-5838-4FF1-98D7-6A0F8B864BEA}|SectionCalculator\\SectionCalculator.vcxproj|F:\\Desktop\\ifntung study\\2 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u041E\u041E\u041F\\SectionCalculator\\SectionCalculator\\ClassDiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{8046D051-5838-4FF1-98D7-6A0F8B864BEA}|SectionCalculator\\SectionCalculator.vcxproj|solutionrelative:SectionCalculator\\ClassDiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sphere.h",
+              "DocumentMoniker": "F:\\Desktop\\ifntung study\\2 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u041E\u041E\u041F\\SectionCalculator\\SectionCalculator\\Sphere.h",
+              "RelativeDocumentMoniker": "SectionCalculator\\Sphere.h",
+              "ToolTip": "F:\\Desktop\\ifntung study\\2 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u041E\u041E\u041F\\SectionCalculator\\SectionCalculator\\Sphere.h",
+              "RelativeToolTip": "SectionCalculator\\Sphere.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-15T12:02:51.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sphere.cpp",
+              "DocumentMoniker": "F:\\Desktop\\ifntung study\\2 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u041E\u041E\u041F\\SectionCalculator\\SectionCalculator\\Sphere.cpp",
+              "RelativeDocumentMoniker": "SectionCalculator\\Sphere.cpp",
+              "ToolTip": "F:\\Desktop\\ifntung study\\2 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u041E\u041E\u041F\\SectionCalculator\\SectionCalculator\\Sphere.cpp",
+              "RelativeToolTip": "SectionCalculator\\Sphere.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwCUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-15T11:55:44.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Point.h",
+              "DocumentMoniker": "F:\\Desktop\\ifntung study\\2 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u041E\u041E\u041F\\SectionCalculator\\SectionCalculator\\Point.h",
+              "RelativeDocumentMoniker": "SectionCalculator\\Point.h",
+              "ToolTip": "F:\\Desktop\\ifntung study\\2 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u041E\u041E\u041F\\SectionCalculator\\SectionCalculator\\Point.h",
+              "RelativeToolTip": "SectionCalculator\\Point.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-15T10:26:52.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Point.cpp",
+              "DocumentMoniker": "F:\\Desktop\\ifntung study\\2 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u041E\u041E\u041F\\SectionCalculator\\SectionCalculator\\Point.cpp",
+              "RelativeDocumentMoniker": "SectionCalculator\\Point.cpp",
+              "ToolTip": "F:\\Desktop\\ifntung study\\2 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u041E\u041E\u041F\\SectionCalculator\\SectionCalculator\\Point.cpp",
+              "RelativeToolTip": "SectionCalculator\\Point.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-15T10:26:51.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pyramid.cpp",
+              "DocumentMoniker": "F:\\Desktop\\ifntung study\\2 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u041E\u041E\u041F\\SectionCalculator\\SectionCalculator\\Pyramid.cpp",
+              "RelativeDocumentMoniker": "SectionCalculator\\Pyramid.cpp",
+              "ToolTip": "F:\\Desktop\\ifntung study\\2 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u041E\u041E\u041F\\SectionCalculator\\SectionCalculator\\Pyramid.cpp",
+              "RelativeToolTip": "SectionCalculator\\Pyramid.cpp",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAQwLQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-14T19:37:15.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SCTest.cpp",
+              "DocumentMoniker": "F:\\Desktop\\ifntung study\\2 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u041E\u041E\u041F\\SectionCalculator\\SCTest\\SCTest.cpp",
+              "RelativeDocumentMoniker": "SCTest\\SCTest.cpp",
+              "ToolTip": "F:\\Desktop\\ifntung study\\2 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u041E\u041E\u041F\\SectionCalculator\\SCTest\\SCTest.cpp",
+              "RelativeToolTip": "SCTest\\SCTest.cpp",
+              "ViewState": "AgIAAG0BAAAAAAAAAAAQwH8BAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T15:26:16.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "F:\\Desktop\\ifntung study\\2 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u041E\u041E\u041F\\SectionCalculator\\SectionCalculator\\Main.cpp",
+              "RelativeDocumentMoniker": "SectionCalculator\\Main.cpp",
+              "ToolTip": "F:\\Desktop\\ifntung study\\2 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u041E\u041E\u041F\\SectionCalculator\\SectionCalculator\\Main.cpp",
+              "RelativeToolTip": "SectionCalculator\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwBMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T15:26:16.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Functions.h",
+              "DocumentMoniker": "F:\\Desktop\\ifntung study\\2 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u041E\u041E\u041F\\SectionCalculator\\SectionCalculator\\Functions.h",
+              "RelativeDocumentMoniker": "SectionCalculator\\Functions.h",
+              "ToolTip": "F:\\Desktop\\ifntung study\\2 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u041E\u041E\u041F\\SectionCalculator\\SectionCalculator\\Functions.h",
+              "RelativeToolTip": "SectionCalculator\\Functions.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-14T19:11:07.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Functions.cpp",
+              "DocumentMoniker": "F:\\Desktop\\ifntung study\\2 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u041E\u041E\u041F\\SectionCalculator\\SectionCalculator\\Functions.cpp",
+              "RelativeDocumentMoniker": "SectionCalculator\\Functions.cpp",
+              "ToolTip": "F:\\Desktop\\ifntung study\\2 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u041E\u041E\u041F\\SectionCalculator\\SectionCalculator\\Functions.cpp",
+              "RelativeToolTip": "SectionCalculator\\Functions.cpp",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAQwNAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-14T19:11:13.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Exceptions.h",
+              "DocumentMoniker": "F:\\Desktop\\ifntung study\\2 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u041E\u041E\u041F\\SectionCalculator\\SectionCalculator\\Exceptions.h",
+              "RelativeDocumentMoniker": "SectionCalculator\\Exceptions.h",
+              "ToolTip": "F:\\Desktop\\ifntung study\\2 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u041E\u041E\u041F\\SectionCalculator\\SectionCalculator\\Exceptions.h",
+              "RelativeToolTip": "SectionCalculator\\Exceptions.h",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAUwFUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-13T15:26:16.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClassDiagram.cd",
+              "DocumentMoniker": "F:\\Desktop\\ifntung study\\2 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u041E\u041E\u041F\\SectionCalculator\\SectionCalculator\\ClassDiagram.cd",
+              "RelativeDocumentMoniker": "SectionCalculator\\ClassDiagram.cd",
+              "ToolTip": "F:\\Desktop\\ifntung study\\2 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u041E\u041E\u041F\\SectionCalculator\\SectionCalculator\\ClassDiagram.cd",
+              "RelativeToolTip": "SectionCalculator\\ClassDiagram.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-11-14T15:55:30.326Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

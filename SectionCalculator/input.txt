@@ -1,0 +1,19 @@
+P4 P-f 0,0,0:0,2,0:2,0,0:2,2,0:1,1,0;1,1,1!      # Top point in same plane as base points
+P4 P-h 0,0,0:1,3,0:3,0,0:3,3,0:1.5,1.5,4;1.5,1.5,2! # Correct
+P4 P-f 0,0,0:0,1,0:1,0,0:1,1,0:0.5,0.5,2;0.5,0.5,0.5! # Correct
+P5 P-f 0,0,0:1,0,0:1,1,1:0,1,0:0.5,0.5,2:0.5,0.5,4;0.5,0.5,1! # Incorrect - points not in one plane
+P5 P-h 1,1,1:2,1,1:2,2,1:1,2,1:1.5,1.5,1:1.5,1.5,5;1.5,1.5,2! # Correct
+P5 P-f 0,0,0:1,0,1:1,1,0:0,1,0:0.5,0.5,3:0.5,0.5,4;0.5,0.5,3! # Incorrect - points not in one plane
+P5 P-h 1,1,1:2,1,1:2,2,1;1.5,1.5,2! # Incorrect - only 3 points
+P4 P-f 1,1,1:2,1,1:2,2,1:1,2,1:1.5,1.5,3;1.5,1.5,0! # Incorrect - invalid section point
+Sp P-h 0,0,0:2,2,2;1,1,1! # Correct
+Sp P-f 1,1,1:3,3,3;2,2,2! # Correct
+Sp P-f 2,2,2:4,4,4;3,3,3! # Correct
+Sp P-h 0,0,0:0,1,1;1,1,0.5! # Incorrect - invalid section point
+P4 P-h 1,1,0:1,3,0:3,1,0:3,3,0:2,2,3;2,2,1! # Correct
+P5 P-f 1,0,1:0,1,1:2,2,1:1,2,1:1.5,1.5,1:1.5,1.5,5;1.5,1.5,1! # Correct
+P5 P-h 1,0,1:0,2,1:2,1,0:2,2,0:1.5,1.5,5;1.5,1.5,1.5! # Incorrect - invalid point count
+P4 P-h 0,0,0:0,3,0:3,0,0:3,3,0;0.5,0.5,1! # Incorrect - invalid point count
+P5 P-f 1,0,0:2,0,0:1,2,1:0,1,1:1.5,1.5,2:1.5,1.5,3;1.5,1.5,2! # Incorrect - base not in one plane
+Sp P-f 1,1,1;2,2,2! # Incorrect - missing point for sphere
+
